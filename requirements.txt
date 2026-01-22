@@ -1,1 +1,9 @@
 ipykernel
+langchain
+langchain_community
+langchain-openai
+psycopg2-binary
+pgvector 
+pypdf
+python-dotenv
+
